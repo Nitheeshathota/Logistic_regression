@@ -1,3 +1,4 @@
 import streamlit as st
 st.number_input('enter id')
-print('Survived')
+from logistic_regression
+print('Survived',predictions)
